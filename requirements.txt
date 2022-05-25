@@ -1,0 +1,14 @@
+Pyrogram==1.4.16
+TgCrypto
+pyromod
+python-dotenv
+dnspython
+motor
+Pillow
+hachoir
+mutagen
+psutil
+aiofiles
+hachoir
+humanfriendly
+aiohttp
