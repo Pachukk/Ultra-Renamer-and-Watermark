@@ -1,15 +1,15 @@
 {
-    "name": "Telegram Files Rename Bot",
-    "description": "A Very Simple Telegram Files Rename Bot by @AbirHasan2005",
+    "name": "Ultra-Renamer-and-Watermark",
+    "description": "A Very Simple Telegram Files Rename Bot by Jeol",
     "keywords": [
         "telegram",
         "files",
         "rename",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Rename-Bot",
-    "website": "https://abirhasan.wtf",
-    "success_url": "https://t.me/AH_RenameBot",
+    "repository": "https://github.com/Jeolpaul/Ultra-Renamer-and-Watermark",
+    "website": "https://betaofficialbot.blogspot.com/?m=1",
+    "success_url": "https://t.me/TG_RENAMERBOT",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
@@ -21,7 +21,7 @@
             "description": "Get this from @BotFather XD"
         },
         "MONGODB_URI": {
-            "description": "MongoDB Database URI for Saving UserID for Broadcast. Tutorial: https://www.youtube.com/watch?v=aXlF80Cn7iU"
+            "description": "MongoDB Database URI for Saving UserID for Broadcast."
         },
         "LOG_CHANNEL": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
