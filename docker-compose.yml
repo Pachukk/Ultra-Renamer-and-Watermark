@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  worker:
+    build: .
+    environment:
+      API_ID: $API_ID
+      API_HASH: $API_HASH
+      BOT_TOKEN: $BOT_TOKEN
+      MONGODB_URI: $MONGODB_URI
+      LOG_CHANNEL: $LOG_CHANNEL
+      DOWNLOAD_DIR: $DOWNLOAD_DIR
+      BROADCAST_AS_COPY: $BROADCAST_AS_COPY
+      OWNER_ID: $OWNER_ID
